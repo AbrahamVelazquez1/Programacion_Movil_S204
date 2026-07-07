@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "ForestGuard",
+    "slug": "forestguard-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#052e16"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#052e16"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
